@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/KinoAR/img-compressor/issues"
   },
-  "homepage": "https://github.com/KinoAR/img-compressor#readme"
+  "homepage": "https://github.com/KinoAR/img-compressor#readme",
+  "dependencies": {
+    "sharp": "^0.22.0"
+  }
 }
