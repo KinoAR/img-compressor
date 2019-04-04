@@ -1,0 +1,25 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "description": "Image compression to minify image sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoAR/img-compressor.git"
+  },
+  "keywords": [
+    "image",
+    "compression",
+    "jpeg",
+    "png"
+  ],
+  "author": "Kino Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KinoAR/img-compressor/issues"
+  },
+  "homepage": "https://github.com/KinoAR/img-compressor#readme"
+}
